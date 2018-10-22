@@ -474,7 +474,7 @@ GEM
     rdiscount (2.2.0.1)
     rdoc (4.2.2)
       json (~> 1.4)
-    recaptcha (2.0.0)
+    recaptcha (4.12.0)
       json
     regexp_parser (0.3.3)
     request_store (1.4.1)
